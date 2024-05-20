@@ -1,1 +1,1 @@
-# Diffusion-Image-Generation
+# Diffusion Unconditional Image Generation
