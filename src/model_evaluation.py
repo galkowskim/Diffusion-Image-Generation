@@ -104,7 +104,7 @@ def main(experiment_dir, no_times, size):
 
     with open(os.path.join(experiment_dir, "fid.txt"), "w") as f:
         f.write(f"FID = {fid_score}\n")
-        f.write(f"{no_times = }, {size = }")
+        f.write(f"{no_times=}, {size=}")
 
 
 if __name__ == "__main__":
