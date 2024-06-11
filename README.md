@@ -33,7 +33,7 @@ python model_evaluation.py --experiment_dir ... -no_times ... (we used 200)
 
 # Model Checkpoints
 
-Model checkpoints are available on the HuggingFace repositories. The checkpoints for each model type are stored under directories named after the training duration (`model_type_x_epochs_LSUN_bedroom`).
+Model checkpoints are available on the HuggingFace [repositories](https://huggingface.co/galkowskim). The checkpoints for each model type are stored under directories named after the training duration (`model_type_x_epochs_LSUN_bedroom`).
 
 We conducted experiments with three types of diffusion models: DDPM, DDIM, and PNDM. Each model was trained for 5, 10, and 50 epochs to evaluate its performance. The table below summarizes the results using the Fréchet Inception Distance (FID) metric, which measures the quality of generated images.
 
