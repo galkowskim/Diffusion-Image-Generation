@@ -53,9 +53,7 @@ From these results, we observe that the DDPM model, especially when trained for 
 
 Animation from the DDPM model trained for 50 epochs:
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE1NnZvYndwcmwxbXRyYzkyM2p4a2tyZmp4eXVkaG01aXM3NDNvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kXiaNkHXSjIppo0Agd/giphy.gif" width="500">
-
-![Alt Text](img/ddpm-epochs-50.gif)
+![DDPM 50 epochs](img/ddpm-epochs-50.gif)
 
 
 -------------------
